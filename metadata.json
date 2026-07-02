@@ -1,0 +1,6 @@
+{
+  "name": "EduPilot AI",
+  "description": "Premium AI-powered Coaching Management System for schools, tuition centers, and coaching institutes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
